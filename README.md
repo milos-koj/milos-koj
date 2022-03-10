@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Milos Kojadinovic
-- 👀 I’m interested in Hiking, Playing games
+- 💼 I am a software engineer who likes to bake something with JS/TS.
 - 🌱 I’m currently learning Blockchain technologies
-- 📫 Email: stackdevstar@gmail.com
+- 📫 stackdevstar@gmail.com
+
+Hobbies: ♟️ 🎾 🏂 🚴 🎵 ⚽ 🎮 🏊 🚶
 
 <!---
 milos-koj/milos-koj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
