@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Blockchain technologies
 - 📫 stackdevstar@gmail.com
 
-Hobbies: ♟️ 🎾 🏂 🚴 🎵 ⚽ 🎮 🏊 🚶
+Hobbies: 🎵 ♟️ 🎮 🚶 🚴 🎾 ⚽ 🏂 🏊 
 
 <!---
 milos-koj/milos-koj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
